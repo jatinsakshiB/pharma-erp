@@ -1,0 +1,10 @@
+# Logs and runtime PID
+data/server.log
+data/server.pid
+data/*.bak
+data/*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
